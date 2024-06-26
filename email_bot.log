@@ -1,0 +1,26 @@
+2024-06-26 16:40:14,001:ERROR:Error in background processing: Brak maili do przetworzenia.
+2024-06-26 16:40:46,082:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Expecting value: line 1 column 1 (char 0)
+2024-06-26 16:42:23,601:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Incorrect API key provided: sk-proj-*********************************************0rOz. You can find your API key at https://platform.openai.com/account/api-keys.
+2024-06-26 16:42:23,603:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Incorrect API key provided: sk-proj-*********************************************0rOz. You can find your API key at https://platform.openai.com/account/api-keys.
+2024-06-26 16:42:23,609:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Incorrect API key provided: sk-proj-*********************************************0rOz. You can find your API key at https://platform.openai.com/account/api-keys.
+2024-06-26 16:42:23,612:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Incorrect API key provided: sk-proj-*********************************************0rOz. You can find your API key at https://platform.openai.com/account/api-keys.
+2024-06-26 16:42:23,614:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Incorrect API key provided: sk-proj-*********************************************0rOz. You can find your API key at https://platform.openai.com/account/api-keys.
+2024-06-26 16:42:23,633:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Incorrect API key provided: sk-proj-*********************************************0rOz. You can find your API key at https://platform.openai.com/account/api-keys.
+2024-06-26 16:42:23,728:ERROR:Error in background processing: Brak danych zamówieñ do zapisania.
+2024-06-26 16:42:57,431:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: The model `gpt-3.5-turb` does not exist or you do not have access to it.
+2024-06-26 16:42:57,439:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: The model `gpt-3.5-turb` does not exist or you do not have access to it.
+2024-06-26 16:42:57,442:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: The model `gpt-3.5-turb` does not exist or you do not have access to it.
+2024-06-26 16:42:57,448:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: The model `gpt-3.5-turb` does not exist or you do not have access to it.
+2024-06-26 16:42:57,456:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: The model `gpt-3.5-turb` does not exist or you do not have access to it.
+2024-06-26 16:42:57,468:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: The model `gpt-3.5-turb` does not exist or you do not have access to it.
+2024-06-26 16:42:57,552:ERROR:Error in background processing: Brak danych zamówieñ do zapisania.
+2024-06-26 16:43:20,676:ERROR:Nie uda³o siê po³¹czyæ z serwerem IMAP: b'[AUTHENTICATIONFAILED] LOGIN invalid credentials or IMAP is disabled sc=KhRiWM04YOs0_261443_'
+2024-06-26 16:43:20,680:ERROR:Error in background processing: Nie uda³o siê po³¹czyæ z serwerem IMAP.
+2024-06-26 16:43:56,087:ERROR:Nie uda³o siê po³¹czyæ z serwerem IMAP: b'[AUTHENTICATIONFAILED] LOGIN invalid credentials or IMAP is disabled sc=thRHPH8PteA0_261443_3dmj3waveg7'
+2024-06-26 16:43:56,088:ERROR:Error in background processing: Nie uda³o siê po³¹czyæ z serwerem IMAP.
+2024-06-26 16:44:31,862:ERROR:Nie uda³o siê po³¹czyæ z serwerem IMAP: [WinError 10060] Próba po³¹czenia nie powiod³a siê, poniewa¿ po³¹czona strona nie odpowiedzia³a poprawnie po ustalonym okresie czasu lub utworzone po³¹czenie nie powiod³o siê, poniewa¿ po³¹czony host nie odpowiedzia³
+2024-06-26 16:44:31,863:ERROR:Error in background processing: Nie uda³o siê po³¹czyæ z serwerem IMAP.
+2024-06-26 16:58:25,322:ERROR:Error in background processing: Brak maili do przetworzenia.
+2024-06-26 17:17:04,874:ERROR:Nie uda³o siê zdekodowaæ odpowiedzi JSON od OpenAI: Rate limit reached for gpt-4 in organization org-i2Phz1jol39oy4zZppJ0QEwC on tokens per min (TPM): Limit 10000, Used 5912, Requested 5200. Please try again in 6.672s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-06-26 17:25:06,375:ERROR:Nie uda³o siê po³¹czyæ z serwerem IMAP: [WinError 10061] Nie mo¿na nawi¹zaæ po³¹czenia, poniewa¿ komputer docelowy aktywnie go odmawia
+2024-06-26 17:25:06,378:ERROR:Error in background processing: Nie uda³o siê po³¹czyæ z serwerem IMAP.
